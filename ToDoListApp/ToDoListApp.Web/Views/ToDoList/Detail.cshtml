@@ -1,0 +1,57 @@
+﻿@model ToDoListApp.Web.Models.ToDoListDetailViewModel 
+@{
+    ViewData["Title"] = "Details";
+}
+
+<div class="container">
+    <h1 class="display-4 text-center mb-3">@Model.List?.Title - Detail</h1>
+
+    <div class="row mb-3">
+        <div class="col-12">
+            <div class="card my-1">
+                @foreach (var item in Model.List.Items)
+                {
+                    <div class="card-body">
+                        <h5 class="card-title">@item.Description</h5>
+                        <div class="form-check">
+                            <input class="form-check-input" type="checkbox"
+                            @(item.IsDone ? "checked" : "") disabled />
+                            <label class="form-check-label">Is done</label>
+                        </div>
+                    </div>
+                }
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <div class="col-md-8">
+            <div class="card">
+                <div class="card-body">
+                    <form method="post">
+                        <div class="row mb-3">
+                            <input type="hidden" name="listId" value="@Model.ListId" />
+                            <div class="row mb-3">
+                                <label class="col-sm-3 col-form-label">New item description</label>
+                                <div class="col-sm-6">
+                                    <input asp-for="NewItemDescription" class="form-control" name="NewItemDescription" />
+                                </div>
+                                <div class="col-sm-3">
+                                    <button type="submit" class="btn btn-primary mb-2">Add item</button>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row mb-3">
+        <div class="col-12">
+            <a class="btn btn-outline-secondary">Back to search</a>
+        </div>
+    </div>
+
+</div>
