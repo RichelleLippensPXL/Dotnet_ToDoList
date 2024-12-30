@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DXq8jtljyJk=",
+  "dgSpecHash": "oUVvRH7qtxQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Domain.Tests\\ToDoListApp.Domain.Tests.csproj",
+  "projectFilePath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Domain.Tests\\ToDoListApp.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\12101041\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\12101041\\.nuget\\packages\\microsoft.codecoverage\\17.11.1\\microsoft.codecoverage.17.11.1.nupkg.sha512",

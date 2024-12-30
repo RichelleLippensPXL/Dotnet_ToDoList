@@ -826,11 +826,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Domain.Tests\\ToDoListApp.Domain.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Domain.Tests\\ToDoListApp.Domain.Tests.csproj",
       "projectName": "ToDoListApp.Domain.Tests",
-      "projectPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Domain.Tests\\ToDoListApp.Domain.Tests.csproj",
+      "projectPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Domain.Tests\\ToDoListApp.Domain.Tests.csproj",
       "packagesPath": "C:\\Users\\12101041\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Domain.Tests\\obj\\",
+      "outputPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Domain.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\12101041\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -848,8 +848,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Domain\\ToDoListApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Domain\\ToDoListApp.Domain.csproj"
+            "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Domain\\ToDoListApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Domain\\ToDoListApp.Domain.csproj"
             }
           }
         }

@@ -31,10 +31,8 @@ namespace ToDoListApp.Infrastructure
             }
 
             list.Items.Add(item);
-            var item2 = _toDoListContext.Set<ToDoItem>().FirstOrDefault(i => i.Id == item.Id);
-            Console.WriteLine(item2.Description);
             //Console.WriteLine(string.Join(", ", list.Items.Select(i => i.Description)));
-            //_toDoListContext.SaveChanges();
+            _toDoListContext.SaveChanges();
 
         }
 

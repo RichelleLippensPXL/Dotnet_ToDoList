@@ -2788,11 +2788,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Infrastructure\\ToDoListApp.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Infrastructure\\ToDoListApp.Infrastructure.csproj",
       "projectName": "ToDoListApp.Infrastructure",
-      "projectPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Infrastructure\\ToDoListApp.Infrastructure.csproj",
+      "projectPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Infrastructure\\ToDoListApp.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\12101041\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\12101041\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2810,11 +2810,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.AppLogic\\ToDoListApp.AppLogic.csproj": {
-              "projectPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.AppLogic\\ToDoListApp.AppLogic.csproj"
+            "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.AppLogic\\ToDoListApp.AppLogic.csproj": {
+              "projectPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.AppLogic\\ToDoListApp.AppLogic.csproj"
             },
-            "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Domain\\ToDoListApp.Domain.csproj": {
-              "projectPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Domain\\ToDoListApp.Domain.csproj"
+            "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Domain\\ToDoListApp.Domain.csproj": {
+              "projectPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Domain\\ToDoListApp.Domain.csproj"
             }
           }
         }

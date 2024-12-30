@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l3QYvx2+08o=",
+  "dgSpecHash": "JH8CF+7Om2A=",
   "success": true,
-  "projectFilePath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Web\\ToDoListApp.Web.csproj",
+  "projectFilePath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Web\\ToDoListApp.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\12101041\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\12101041\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

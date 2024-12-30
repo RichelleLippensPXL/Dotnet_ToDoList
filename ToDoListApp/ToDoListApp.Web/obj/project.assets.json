@@ -4098,11 +4098,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Web\\ToDoListApp.Web.csproj",
+      "projectUniqueName": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Web\\ToDoListApp.Web.csproj",
       "projectName": "ToDoListApp.Web",
-      "projectPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Web\\ToDoListApp.Web.csproj",
+      "projectPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Web\\ToDoListApp.Web.csproj",
       "packagesPath": "C:\\Users\\12101041\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Web\\obj\\",
+      "outputPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Web\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\12101041\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4120,8 +4120,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Infrastructure\\ToDoListApp.Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\ToDoListApp (2)\\ToDoListApp.Infrastructure\\ToDoListApp.Infrastructure.csproj"
+            "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Infrastructure\\ToDoListApp.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\12101041\\Desktop\\Prive\\DotNet advanced\\DotNet_ExamenOef\\ToDoListApp\\ToDoListApp.Infrastructure\\ToDoListApp.Infrastructure.csproj"
             }
           }
         }
